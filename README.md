@@ -1,3 +1,2 @@
-# Springboard AIML Course Mini-projects
-## Have uploaded the mini-projects from local since trial.dominodatalab was scrapped
-### Note - Some projects would contain my personal progress
+# Course Mini-projects
+## Contains all the mini-projects done as a part of the AIML Course by Springboard
